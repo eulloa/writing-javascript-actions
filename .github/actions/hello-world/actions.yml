@@ -5,3 +5,4 @@ description: "say hello with GitHub actions"
 runs:
   using: "node12"
   main: "main.js"
+
